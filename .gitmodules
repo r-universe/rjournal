@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rjtools"]
+	path = rjtools
+	url = https://github.com/rjournal/rjtools
+	shallow = true
+	registered = true
